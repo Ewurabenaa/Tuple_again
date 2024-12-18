@@ -1,0 +1,1 @@
+The goal is simple: roll three dice, try to "fix" two of them when they match, and then keep rolling the others to score as many points as possible. Each turn you take, you'll be making strategic decisions—whether to reroll your dice or stick with what you've got. At the end of the game, the player with the highest 
